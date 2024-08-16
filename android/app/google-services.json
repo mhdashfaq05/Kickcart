@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177684686258",
+    "project_id": "kickcart-7bafa",
+    "storage_bucket": "kickcart-7bafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177684686258:android:be6989d4638f299e2d70ab",
+        "android_client_info": {
+          "package_name": "com.example.kick_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOt5GYb9CeKS37n4_MRko5afQxzKewqOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177684686258:android:9c7a30c900f61b482d70ab",
+        "android_client_info": {
+          "package_name": "com.example.kickcart_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOt5GYb9CeKS37n4_MRko5afQxzKewqOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
